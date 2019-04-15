@@ -1,4 +1,4 @@
-# Curso Produtividade com VSCode hrhrhrh
+# Curso Produtividade com VSCode 
 
 Repositório dedicado ao curso realizado na Udemy para uma melhor produtividade com a IDE Visual Studio Code.
 Este Repositório está dividido nas seguintes seções:
