@@ -5,5 +5,5 @@ Este Repositório está dividido nas seguintes seções:
 
 - **[Atalhos](https://github.com/leandrobeandrade/vscode/blob/master/atalhos/atalhos.md) ->** comandos por teclas para acessar fácil e rapidamente funcionalidades da IDE.
 - **Temas ->** como instalar e configurar temas baixados.
-- **Emmet ->** funcinalidade para auto-complete de códigos.
+- **Emmet ->** funcinalidades para auto-complete de códigos HTML.
 - **Snippets ->**     
