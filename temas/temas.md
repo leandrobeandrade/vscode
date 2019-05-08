@@ -1,3 +1,5 @@
+# Temas VSCode
+
 body>div -> cria a tag body com uma tag div dentro 
 body>div+div -> cria a tag body com duas tags div no mesmo nível (irmãs)
 body>div*2 -> cria tag body com duas tags div no mesmo nível(irmãs)
