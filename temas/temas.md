@@ -8,5 +8,3 @@
 
 TODO Tree => Mostra todos os TODOS, FIXME podendo ser configurado mais opções em user settings -> todo-tree para cirar as tags, todo-tree.defaultHighlight e todo-tree.customHighlight para type, icon, foreground, background
 
-
-gfgf
