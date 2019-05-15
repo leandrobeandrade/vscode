@@ -1,5 +1,11 @@
 # Temas VSCode
 
+ctrl + shift + p => color themes para listar os temas instalados por padrão 
+install additional color themes => abre extensões direto com temas para a instalação
+user.settings => editor.tokenColorCustomizations para customizar os temas como cor de comentários, etc...
+
+# Extensões VSCode
+
 - Bracket Pair Colorizer => realiza a coloração dos caracteres que criam blocos de códigos no Javascript como **()**, **{}** e **[]** 
 
 - VsCode-icons => muda o estilo dos ícones do modo padrão para o modo do plugin
