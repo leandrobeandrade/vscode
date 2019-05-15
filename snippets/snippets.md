@@ -1,4 +1,4 @@
-# Snnipets - VSCode
+# Emmet - VSCode
 
 body>div -> cria a tag body com uma tag div dentro body>div+div -> cria a tag body com duas tags div no mesmo nível (irmãs) body>div2 -> cria tag body com duas tags div no mesmo nível(irmãs) body>div>p3>lorem10 -> cria cria tag body com uma div e 3 parágrafos dentro da div com lorem de 10 palavras
 
