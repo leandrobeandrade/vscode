@@ -1,9 +1,15 @@
-# Curso Produtividade com VSCode 
+# Temas VSCode
 
-Repositório dedicado ao curso realizado na Udemy para uma melhor produtividade com a IDE Visual Studio Code.
-Este Repositório está dividido nas seguintes seções:
+ctrl + shift + p => color themes para listar os temas instalados por padrão 
+install additional color themes => abre extensões direto com temas para a instalação
+user.settings => editor.tokenColorCustomizations para customizar os temas como cor de comentários, etc...
 
-- **Atalhos ->** comandos por teclas para acessar fácil e rapidamente funcionalidades da IDE.
-- **Temas ->** como isntalar e configurar temas baixados.
-- **Emmet ->** funcinalidade para auto-complete de códigos.
-- **Snippets ->**  hgnhnhnh
+# Extensões VSCode
+
+- Bracket Pair Colorizer => realiza a coloração dos caracteres que criam blocos de códigos no Javascript como **()**, **{}** e **[]** 
+
+- VsCode-icons => muda o estilo dos ícones do modo padrão para o modo do plugin
+
+- GitLens => Faz uma varredura no repositório relacionado com todos os detalhes do projeto, todos os commits, branches, alterações etc...
+
+TODO Tree => Mostra todos os TODOS, FIXME podendo ser configurado mais opções em user settings -> todo-tree para cirar as tags, todo-tree.defaultHighlight e todo-tree.customHighlight para type, icon, foreground, background
