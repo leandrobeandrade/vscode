@@ -1,6 +1,6 @@
 # Atalhos - VSCode 
 
-**Lista os comandos existentes no VSCode ->** ctrl + shift + p
+**Lista os comandos existentes no VSCode =>** ctrl + shift + p
 
 **Busca dentro do diretório os arquivos ->** ctrl + p
 
