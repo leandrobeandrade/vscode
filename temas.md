@@ -20,4 +20,3 @@
 - [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
 - [Spacemacs](https://marketplace.visualstudio.com/items?itemName=cometeer.spacemacs)
 - [Verdandi](https://marketplace.visualstudio.com/items?itemName=be5invis.theme-verdandi)
-- []()
