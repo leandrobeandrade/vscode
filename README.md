@@ -3,7 +3,7 @@
 Repositório dedicado ao curso realizado na Udemy para uma melhor produtividade com a IDE Visual Studio Code.
 Este Repositório está dividido nas seguintes seções:
 
-- **[Atalhos](https://github.com/leandrobeandrade/vscode/blob/master/atalhos.md) ->** comandos por teclas para acessar fácil e rapidamente funcionalidades da IDE.
-- **[Temas](https://github.com/leandrobeandrade/vscode/blob/master/temas.md) ->** como instalar e configurar temas baixados.
-- **[Emmet](https://github.com/leandrobeandrade/vscode/blob/master/emmet.md) ->** funcionalidades para auto-complete de códigos HTML.
-- **Snippets ->** .....
+- **[Atalhos](https://github.com/leandrobeandrade/vscode/blob/master/atalhos.md) =>** comandos por teclas para acessar fácil e rapidamente funcionalidades da IDE.
+- **[Temas](https://github.com/leandrobeandrade/vscode/blob/master/temas.md) =>** como instalar e configurar temas baixados.
+- **[Emmet](https://github.com/leandrobeandrade/vscode/blob/master/emmet.md) =>** funcionalidades para auto-complete de códigos HTML.
+- **Snippets =>** .....
