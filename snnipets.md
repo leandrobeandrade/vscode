@@ -5,10 +5,10 @@ São shortcuts de palavras que agilizam e facilitam no desenvolvimento.
 Entensions => snnipets + linguagem
 Javascript (ES6) code snnipets
 - **imp =>** para realizar importações
-- rqr => para utilizar require
-- met => para criar um método
-- sto => para criar um método setTimeout()
-- sti => para criar um método setInterval()
+- **rqr =>** para utilizar require
+- **met =>** para criar um método
+- **sto =>** para criar um método setTimeout()
+- **sti =>** para criar um método setInterval()
 - clg => para criar um console.log()
 
 ## Criar um snnipet personalizado
