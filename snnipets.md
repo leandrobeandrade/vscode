@@ -9,7 +9,7 @@ Javascript (ES6) code snnipets
 - **met =>** para criar um método
 - **sto =>** para criar um método setTimeout()
 - **sti =>** para criar um método setInterval()
-- clg => para criar um console.log()
+- **clg =>** para criar um console.log()
 
 ## Criar um snnipet personalizado
 - ctrl + shift + p
