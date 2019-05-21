@@ -2,14 +2,14 @@
 
 **Lista os comandos existentes no VSCode =>** ctrl + shift + p
 
-**Busca dentro do diretório os arquivos ->** ctrl + p
+**Busca dentro do diretório os arquivos =>** ctrl + p
 
 * se for digitado o sinal de maior `>` é mostrado a lista de comandos
 * se for digitado o sinal `:` mais um número o cursor vai para a linha do número
 
-**Cursor para determinada linha ->** ctrl + g + número da linha
+**Cursor para determinada linha =>** ctrl + g + número da linha
 
-**Move a linha para cima ou para baixo ->** alt + setas (cima/baixo)
+**Move a linha para cima ou para baixo =>** alt + setas (cima/baixo)
  
 **Seleciona o texto por letras ->** shift + setas (esquerda/direita)
 
