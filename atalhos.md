@@ -17,7 +17,7 @@
 
 **Selecionar uma linha =>** ctrl + l ou shift + setas(cima/baixo)
 
-**Colocar cursor na mesma posição em linha diferentes ->** ctrl + shift + setas (cima/baixo) ou alt + click
+**Colocar cursor na mesma posição em linha diferentes =>** ctrl + shift + setas (cima/baixo) ou alt + click
 
 **Deletar uma linha ->** ctrl + shift + k
 
