@@ -15,7 +15,7 @@
 
 **Seleciona o texto por palavras =>** shift + ctrl + setas (esquerda/direita)
 
-**Selecionar uma linha ->** ctrl + l ou shift + setas(cima/baixo)
+**Selecionar uma linha =>** ctrl + l ou shift + setas(cima/baixo)
 
 **Colocar cursor na mesma posição em linha diferentes ->** ctrl + shift + setas (cima/baixo) ou alt + click
 
