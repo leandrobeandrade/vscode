@@ -11,9 +11,9 @@
 
 **Move a linha para cima ou para baixo =>** alt + setas (cima/baixo)
  
-**Seleciona o texto por letras ->** shift + setas (esquerda/direita)
+**Seleciona o texto por letras =>** shift + setas (esquerda/direita)
 
-**Seleciona o texto por palavras ->** shift + ctrl + setas (esquerda/direita)
+**Seleciona o texto por palavras =>** shift + ctrl + setas (esquerda/direita)
 
 **Selecionar uma linha ->** ctrl + l ou shift + setas(cima/baixo)
 
