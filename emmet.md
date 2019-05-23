@@ -19,5 +19,3 @@
 ## Outros recursos do Emmet
 
 [emmet documentation](https://docs.emmet.io/)
-
-hhrtyryr
