@@ -19,9 +19,9 @@
 
 **Colocar cursor na mesma posição em linha diferentes =>** ctrl + shift + setas (cima/baixo) ou alt + click
 
-**Deletar uma linha ->** ctrl + shift + k
+**Deletar uma linha =>** ctrl + shift + k
 
-**Deletar palavra a direita ->** ctrl + delete
+**Deletar palavra a direita =>** ctrl + delete
 
 **Procurar por texto no arquivo ->** ctrl + f
 
