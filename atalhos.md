@@ -34,3 +34,6 @@
 **Deixar de ter vários cursores ->** Esc
 
 **Mostrar funções, métodos, variáveis ->** ctrl + shift + o
+
+
+ddf.....
