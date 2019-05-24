@@ -1,4 +1,4 @@
-# Atalhos - VSCode 
+# Atalhos - VSCode ....
 
 **Lista os comandos existentes no VSCode =>** ctrl + shift + p
 
