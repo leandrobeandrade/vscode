@@ -8,5 +8,5 @@ Este Repositório está dividido nas seguintes seções:
 - **[Emmet](https://github.com/leandrobeandrade/vscode/blob/master/emmet.md):** funcionalidades para auto-complete de códigos HTML
 - **[Fontes](https://github.com/leandrobeandrade/vscode/blob/master/fontes.md):** estilização de fontes e sinais
 - **[Snippets](https://github.com/leandrobeandrade/vscode/blob/master/snnipets.md)**: atalhos para funções e métodos.
-- **[Temas](https://github.com/leandrobeandrade/vscode/blob/master/temas.md):** instalação e configuraração de temas baixados.
+- **[Temas](https://github.com/leandrobeandrade/vscode/blob/master/temas.md):** instalação e configuração de temas baixados.
 - **lint:** ...
