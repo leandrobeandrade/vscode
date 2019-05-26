@@ -1,4 +1,4 @@
-# Snnipets - VSCode
+# Snippets - VSCode
 
 São shortcuts de palavras que agilizam e facilitam no desenvolvimento. 
 
