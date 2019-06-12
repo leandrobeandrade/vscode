@@ -7,6 +7,8 @@
 * se for digitado o sinal de maior `>` é mostrado a lista de comandos
 * se for digitado o sinal `:` mais um número o cursor vai para a linha do número
 
+**Abrir arquivo =>** ctrl + click
+
 **Cursor para determinada linha =>** ctrl + g + número da linha
 
 **Move a linha para cima ou para baixo =>** alt + setas (cima/baixo)
