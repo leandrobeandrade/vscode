@@ -9,3 +9,5 @@ Este Repositório está dividido nas seguintes seções:
 - **[Fontes](https://github.com/leandrobeandrade/vscode/blob/master/fontes.md):** estilização de fontes e sinais
 - **[Snippets](https://github.com/leandrobeandrade/vscode/blob/master/snippets.md)**: atalhos para funções e métodos.
 - **[Temas](https://github.com/leandrobeandrade/vscode/blob/master/temas.md):** instalação e configuração de temas baixados.
+
+![curso](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwKaLJyRDVwxkCEK6TaU_08pzueIjQ1qQPUcJfW1Ng3KSwwcZ)
